@@ -10,7 +10,7 @@ This app aims to merge the standard unit datasheets from NewRecruit with 10th ed
 
 
 ## Installation
-1. Click the 'Crusade Datasheet Generator.zip' file
+1. Click the 'Crusade Datasheet Generator.zip' file in the top section of this page
 2. Click the ellipsis (3 dot icon) button in the top-right and select 'Download'. Save the file anywhere on your PC
 3. Unzip the file anywhere on your PC. No other installation is needed
 
